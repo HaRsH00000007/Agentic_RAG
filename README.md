@@ -36,10 +36,13 @@ git clone https://github.com/yourusername/agentic-rag.git
 cd agentic-rag
 
 # Create a virtual environment
+
 python -m venv venv
+
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
 
 # Install dependencies
+
 pip install -r requirements.txt
 
 Usage
@@ -51,24 +54,6 @@ Obtain your Gemini API key from Google.
 Set environment variables:
 
 export GEMINI_API_KEY='your-api-key'
-
-Run the application:
-
-python app.py
-
-Interact with the RAG system via the Streamlit UI.
-
-Project Structure
-
-📦 agentic-rag
-├── 📂 data                  # Dataset and documents for retrieval
-├── 📂 src                   # Source code
-│   ├── indexer.py           # Handles document indexing
-│   ├── retriever.py         # Fetches relevant documents
-│   ├── generator.py         # Calls Gemini API for response generation
-│   ├── app.py               # Main application
-├── 📄 requirements.txt       # Dependencies
-├── 📄 README.md              # Documentation
 
 Example Query
 
