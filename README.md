@@ -23,24 +23,7 @@ Tech Stack
 > Gemini API: For generative responses.
 
 > Hugging Face Transformers: For embedding-based retrieval.
-
-
-Installation
-
-# Clone the repository
-git clone [https://github.com/yourusername/agentic-rag.git](https://github.com/HaRsH00000007/Agentic_RAG.git)
-cd agentic-rag
-
-# Create a virtual environment
-
-python -m venv venv
-
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
-
-# Install dependencies
-
-pip install -r requirements.txt
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Usage
 
 > Set up API keys:
