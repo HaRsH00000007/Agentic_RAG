@@ -8,17 +8,13 @@ This repository contains an Agentic Retrieval-Augmented Generation (RAG) system 
 
 Features
 
-> Retrieval-Augmented Generation (RAG): Improves LLM responses by dynamically fetching relevant data.
+> Smart Query Handling – Dynamically chooses the best method (retrieval or summarization) instead of blindly fetching documents.
 
-> Agentic Behavior: Uses multiple agents to optimize retrieval and generation tasks.
+> Better Efficiency – Reduces unnecessary retrievals, making responses faster and more relevant.
 
-> LlamaIndex Integration: Manages document indexing and retrieval.
+> Higher Adaptability – Adjusts responses based on different types of queries rather than following a rigid retrieval structure.
 
-> Gemini API Integration: Uses Google's Gemini LLM for enhanced text generation.
-
-> Hugging Face Embeddings: Generates high-quality vector representations for document retrieval.
-
-> Scalable and Modular Design: Easily customizable for various applications.
+> Improved Accuracy – Prevents hallucinations by ensuring that only the most relevant information is used for generation.
 
 Tech Stack
 
