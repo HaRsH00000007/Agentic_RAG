@@ -47,19 +47,19 @@ pip install -r requirements.txt
 
 Usage
 
-Set up API keys:
+> Set up API keys:
 
-Obtain your Gemini API key from Google.
+> Obtain your Gemini API key from Google.
 
-Set environment variables:
+> Set environment variables:
 
-export GEMINI_API_KEY='your-api-key'
+> export GEMINI_API_KEY='your-api-key'
 
-Example Query
+> Example Query
 
-User Input: "What is Retrieval-Augmented Generation?"
+> User Input: "What is Retrieval-Augmented Generation?"
 
-System Response: "Retrieval-Augmented Generation (RAG) is a framework that enhances LLM outputs by fetching relevant external documents..."
+> System Response: "Retrieval-Augmented Generation (RAG) is a framework that enhances LLM outputs by fetching relevant external documents..."
 
 Contributing
 
