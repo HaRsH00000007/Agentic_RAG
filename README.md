@@ -28,7 +28,7 @@ Tech Stack
 Installation
 
 # Clone the repository
-git clone https://github.com/yourusername/agentic-rag.git
+git clone [https://github.com/yourusername/agentic-rag.git](https://github.com/HaRsH00000007/Agentic_RAG.git)
 cd agentic-rag
 
 # Create a virtual environment
