@@ -8,29 +8,26 @@ This repository contains an Agentic Retrieval-Augmented Generation (RAG) system 
 
 Features
 
-Retrieval-Augmented Generation (RAG): Improves LLM responses by dynamically fetching relevant data.
+> Retrieval-Augmented Generation (RAG): Improves LLM responses by dynamically fetching relevant data.
 
-Agentic Behavior: Uses multiple agents to optimize retrieval and generation tasks.
+> Agentic Behavior: Uses multiple agents to optimize retrieval and generation tasks.
 
-LlamaIndex Integration: Manages document indexing and retrieval.
+> LlamaIndex Integration: Manages document indexing and retrieval.
 
-Gemini API Integration: Uses Google's Gemini LLM for enhanced text generation.
+> Gemini API Integration: Uses Google's Gemini LLM for enhanced text generation.
 
-Hugging Face Embeddings: Generates high-quality vector representations for document retrieval.
+> Hugging Face Embeddings: Generates high-quality vector representations for document retrieval.
 
-Scalable and Modular Design: Easily customizable for various applications.
+> Scalable and Modular Design: Easily customizable for various applications.
 
 Tech Stack
 
-LlamaIndex: For document indexing and retrieval.
+> LlamaIndex: For document indexing and retrieval.
 
-Gemini API: For generative responses.
+> Gemini API: For generative responses.
 
-Hugging Face Transformers: For embedding-based retrieval.
+> Hugging Face Transformers: For embedding-based retrieval.
 
-ChromaDB: Vector database for efficient similarity search.
-
-Streamlit: UI for interacting with the RAG system.
 
 Installation
 
